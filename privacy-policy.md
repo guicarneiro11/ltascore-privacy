@@ -57,3 +57,6 @@ Podemos atualizar nossa Política de Privacidade periodicamente. Notificaremos s
 Se você tiver dúvidas sobre esta política de privacidade, entre em contato conosco:
 - Email: guicarneiro.dev@gmail.com
 - GitHub: github.com/guicarneiro11
+
+## Core Policies
+LTA Score isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
